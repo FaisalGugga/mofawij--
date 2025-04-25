@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Stadium Gates Information",
+    "content": "Gates 1-4: North entrance (AA prefix), Gates 5-8: East entrance (BB prefix), Gates 9-12: South entrance (CC prefix), Gates 13-16: West entrance (DD prefix). All gates open 3 hours before event start."
+  },
+  {
+    "title": "Venue Amenities",
+    "content": "Food courts: Near Gates 4 (North Food Plaza), 8 (East Dining Hall), and 15 (West Cafeteria). Prayer rooms: Sections A3, B7, and D2. Medical services: Gates 2, 9, and 14. Water fountains available near each restroom. Mobile charging stations at sections A5, B9, C7, and D4."
+  },
+  {
+    "title": "Seating Sections",
+    "content": "First letter in ticket code indicates entrance zone (A/B/C/D). Second letter indicates tier level (A=Ground, B=Middle, C=Upper). Section number follows the hyphen. For example: BB-D1-11 means East entrance (BB), Fourth tier (D), Section 1, Seat 11."
+  },
+  {
+    "title": "Ticket Code Structure",
+    "content": "Ticket format: XX-YZ-NN where XX=Gate prefix (AA/BB/CC/DD), Y=Section letter (A-F), Z=Section number (1-9), NN=Seat number (01-99). Example: BB-D1-11 means enter through East gates (5-8), proceed to D1 section (Fourth tier, Section 1), Find seat 11."
+  },
+  {
+    "title": "Section Wayfinding",
+    "content": "A sections (A1-A9): Premium VIP (North), B sections (B1-B9): Premium General (East), C sections (C1-C9): Standard (South), D sections (D1-D9): Family section (West), E sections (E1-E9): Economy (Corners), F sections (F1-F5): Special needs accessible seating (Near Gates 3, 7, 11, 15)."
+  },
+  {
+    "title": "Gate-to-Section Navigation",
+    "content": "From Gate 6 (BB prefix): For BB-A* sections, proceed left and down to ground level. For BB-B* sections, proceed left on current level. For BB-C* sections, proceed left and up one level. For BB-D* sections, proceed right and up two levels. For CC/DD/AA prefixes, please enter through the corresponding gate area for quickest access."
+  },
+  {
+    "title": "Event Schedule",
+    "content": "Pre-event activities start at 17:00 (Gates open). Food stalls open at 16:00. Main event begins at 19:30. Intermission at 20:45-21:15. Expected conclusion at 22:00. Gates close at 23:00."
+  },
+  {
+    "title": "Crowd Management",
+    "content": "Current capacity: 45,000 seats. Real-time occupancy: North (AA) - 92%, East (BB) - 78%, South (CC) - 85%, West (DD) - 73%. Highest congestion at Gates 2, 7, and 10. Recommended alternate entry: Gates 4, 6, and 11. Exit procedures use color-coded routes displayed on digital signage."
+  },
+  {
+    "title": "Stadium Policies",
+    "content": "No outside food or beverages. Photography allowed without professional equipment. No re-entry after exit. Mobile tickets accepted at all gates with QR scanners. Bags larger than 30x30cm not permitted. Lost tickets: visit Guest Services at Gates 1, 8, or 13."
+  },
+  {
+    "title": "Seat Services",
+    "content": "For assistance with seat location, show your ticket to any staff member with a yellow badge. Premium sections (AA/BB-A*) include in-seat food service. Booster seats for children available at Guest Services. Section BB-D1 located on upper east side, accessible via elevators near Gate 6 or stairs S6-E."
+  }
+]
